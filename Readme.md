@@ -2,6 +2,6 @@
 
 Este e um repositorio teste
 
-Saiba mais em: [Google](https://google.com){:target="_blank"}
+Saiba mais em: [Google](https://google.com)
 
 Gostou? Pague um cafe pro autor do curso.
